@@ -1,0 +1,30 @@
+form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  label, input, textarea {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    border-color: rgb(16, 16, 16);
+    border-width: 2px;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  img {
+    display: block;
+    margin-bottom: 10px;
+  }
+h1{
+    text-align: center;
+}  
+button{
+  width: 100%;
+  margin-left: 3px;
+  background-color: rgb(54, 189, 252);
+  font-size: large;
+}
